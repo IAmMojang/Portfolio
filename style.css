@@ -32,3 +32,10 @@ body {
 .buttons:hover{
     background-color: hsl(214, 100%, 56%);
 }
+
+.brown {
+    font-size: 50px;
+    background-color: burlywood;
+    width: 70px;
+    height: 70px;
+}

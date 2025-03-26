@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana;
+    text-align: center;
+    background-color: rgb(0, 150, 100);
+}
+#myButton {
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 15px;
+    background-color: orchid;
+}
+
+#label1 {
+    font-size: 50px;
+}
+
+#label2 {
+    font-size: 50px;
+}
+
+#label3 {
+    font-size: 50px;
+}
+
+.brown {
+    font-size: 50px;
+    background-color: burlywood;
+    width: 70px;
+    height: 70px;
+}

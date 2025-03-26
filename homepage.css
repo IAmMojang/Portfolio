@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700&display=swap');
+
+body {
+    background-color: #3d2217;
+    font-family: Passion One;
+}
+
+.border {
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+}
+
+.brown {
+    font-size: 50px;
+    background-color: burlywood;
+    width: 70px;
+    height: 70px;
+}
